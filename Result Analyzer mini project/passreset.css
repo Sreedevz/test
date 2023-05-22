@@ -1,0 +1,122 @@
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    }
+    
+    @media (min-width: 1025px) {
+    .h-custom-2 {
+    height: 100%;
+    }
+    }
+    .zigma1{
+        position: absolute;
+        width: 394.29px;
+        height: 61.01px;
+        left: 159px;
+        top: 192px;
+        
+        font-family: 'Noto Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 54px;
+        letter-spacing: -0.8px;
+        
+        color: #000000;
+    }
+    .zigma2{
+       
+width: 375.08px;
+height: 0px;
+margin-left: 92px;
+margin-top: 4px;
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 0px;
+/* identical to box height, or 0% */
+
+
+color: #64748B;
+    }
+    .zigma3{
+margin-left:93px;
+margin-top:35px;
+width: 101.68px;
+height: 23.73px;
+left: calc(50% - 101.68px/2 - 544.9px);
+top: calc(50% - 23.73px/2 - 133.88px);
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 21px;
+/* or 160% */
+
+
+/* Dark */
+
+color: #1E293B;
+    }
+    .zigma4{
+        box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 11px 12px;
+
+position: absolute;
+width: 402.2px;
+height: 48.58px;
+left: 160.26px;
+top: 378.02px;
+margin-top:-22px;
+margin-left:-7px;
+/* White */
+
+background: #FFFFFF;
+/* Gray-400 */
+
+border: 1px solid #CED4DA;
+border-radius: 6px;
+    }
+    .zigma5{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 0px 24px;
+        gap: 7px;
+        
+        position: absolute;
+        left: 10.6%;
+        right: 62.8%;
+        top: 45.4%;
+        bottom: 50%;
+        
+        /* Dark */
+        
+        background: #1E293B;
+        border-radius: 6px;
+        margin-top:73px;
+        margin-left:70px;
+        height:43px; 
+        width:404px;
+        color:#FFFFFF
+    }
+    .zigma6{
+        
+
+}
+
+
+    
